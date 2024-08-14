@@ -13,7 +13,7 @@
         {
             "nome": "Git",
             "descricao": "Utilizo Git para controle de versão, permitindo colaboração eficiente em projetos de software. Com Git, rastreio alterações no código, gerencio branches e realizo merges de forma segura e organizada.",
-            "img": "./static/img/sql.jfif"
+            "img": "./static/img/git.jfif"
         },
         {
             "nome": "SQL",
