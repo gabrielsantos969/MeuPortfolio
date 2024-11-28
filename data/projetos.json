@@ -11,15 +11,8 @@
             "nome": "Piano Só Para Baixinhos",
             "descricao": "Projeto simples feito para professora de piano a qual desejava ter uma pagina para falar um pouco dela e trazer informações de suas aulas e rede social.",
             "img": "./static/img_projetos/projeto_piano_so_para_baixinhos.jpeg",
-            "link": "https://soaresmusic.netlify.app",
+            "link": "https://pianosoparabaixinhos.netlify.app",
             "linguagens_utilizadas": [0, 6, 7]
-        },
-        {
-            "nome": "GSS Promoções",
-            "descricao": "Projeto feito para afiliado de Lojas de vendas a qual está conectado com um banco de dados e onde está sendo feito um site que faz o cadastro de produtos e promoções para esse site.",
-            "img": "./static/img_projetos/projeto_gsspromocoes.jpeg",
-            "link": "https://gsspromocoes.netlify.app",
-            "linguagens_utilizadas": [0, 3, 4, 6, 7]
         }
     ]
 }

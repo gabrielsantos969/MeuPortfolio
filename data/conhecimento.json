@@ -6,9 +6,19 @@
             "img": "./static/img/node.jfif"
         },
         {
+            "nome": ".NET",
+            "descricao": "Trabalho com .NET para desenvolver REST API's completas e com integração a serviços de terceiros. Utilizo principalmente para projetos de Sistemas Empresariais a qual requer muito da API.",
+            "img": "./static/img/microsoftnet.png"
+        },
+        {
             "nome": "React",
             "descricao": "Utilizo React para construir interfaces de usuário interativas e dinâmicas. Com essa biblioteca, desenvolvo componentes reutilizáveis que facilitam a manutenção e a escalabilidade das aplicações front-end.",
             "img": "./static/img/react.jfif"
+        },
+        {
+            "nome": "Angular",
+            "descricao": "Utilizo o Angular para o desenvolvimento de sistemas Front-end,junto com integrações de serviços e API's. Minha maior utilização é com integração a API .NET e para Sistemas Empresariais.",
+            "img": "./static/img/angular.png"
         },
         {
             "nome": "Git",
@@ -19,16 +29,6 @@
             "nome": "SQL",
             "descricao": "Trabalho com diversos bancos de dados SQL relacionais e não relacionais para armazenar e gerenciar dados de forma eficiente. Tenho experiência em modelagem de dados, consultas complexas e otimização de performance.",
             "img": "./static/img/sql.jfif"
-        },
-        {
-            "nome": "Javascript",
-            "descricao": "Programo em JavaScript para adicionar funcionalidades interativas às páginas web. Com essa linguagem, manipulo o DOM, realizo requisições assíncronas e crio experiências de usuário envolventes.",
-            "img": "./static/img/javascript.jfif"
-        },
-        {
-            "nome": "Typescript",
-            "descricao": "Escrevo código em TypeScript para garantir maior segurança e robustez nas minhas aplicações. A tipagem estática ajuda a identificar erros mais cedo no desenvolvimento, tornando o código mais fácil de manter e escalar.",
-            "img": "./static/img/typescript.jfif"
         }
     ]
 }
